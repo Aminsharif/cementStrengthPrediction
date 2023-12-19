@@ -18,8 +18,8 @@ def get_requirements(file_path) ->List[str]:
     return requirements
 
 setup(
-name='project_structure',
-version= '0.0.1',
+name='cementStrengthPrediction',
+version= '1.0.0',
 author='Amin',
 author_email='sharifmia236@gmail.com',
 packages=find_packages(),
